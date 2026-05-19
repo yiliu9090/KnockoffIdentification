@@ -178,7 +178,6 @@ Cross-domain null mean transfer (averaged across 19 domains):
 | Likelihood | 0.220 | 0.284 | 0.440 | 0.471 |
 
 At target FDR level q = 0.2. FDR for L2D and ImBD ranges from 0.16–0.28 across models (close to nominal). Likelihood achieves meaningful power with near-zero FDR inflation.
-```
 
 ## References
 
